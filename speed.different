@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    int aravspeed,aaronspeed,speeddiff;
+    scanf("%d %d",&aravspeed,&aaronspeed);
+   if (aravspeed>aaronspeed)
+   printf("%d", speeddiff=aravspeed-aaronspeed);
+   else
+   printf("%d",speeddiff=aaronspeed-aravspeed);
+ 
+	return 0;
+}
